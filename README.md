@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rajhemant760@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rb.gy/7w8ofb)
+- 📄 Know about my experiences: [My Resume](https://rb.gy/7w8ofb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
