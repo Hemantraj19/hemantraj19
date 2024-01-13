@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rajhemant760@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_07w87RTBPhUzbMo59Yq5JqQlCjQUtid/view?usp=share_link](https://drive.google.com/file/d/1_07w87RTBPhUzbMo59Yq5JqQlCjQUtid/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://rb.gy/7w8ofb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
