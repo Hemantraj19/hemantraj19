@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemant</h1>
 <h3 align="center">A CSE undergrad looking to become an expert in my domain by channelizing my technical skills and learning to ensure personal as well as professional growth and contribute to the organisation's prosperity.</h3>
 
-- 🔭 I’m currently working on **Web Scraping**
+- 🔭 I’m currently working on **Flask**
 
 - 📫 How to reach me **rajhemant760@gmail.com**
 
