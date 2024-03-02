@@ -54,7 +54,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="text-decoration: none;">
   <a href="https://instagram.com/__hemant19__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
