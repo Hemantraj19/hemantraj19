@@ -56,7 +56,7 @@
 
 <div align="left">
   <a href="https://instagram.com/__hemant19__" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" style="text-decoration: none;"  />
   </a>
   <a href="https://discordapp.com/users/mechx5396/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
