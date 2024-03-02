@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Hemant</h2>
 
-###
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemantraj19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -10,9 +10,9 @@
 <br>
 <br>
 
-###
+### Profile Views
 
-<br>br>
+<br><br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hemantraj19/count.svg?"  />
 </div>
@@ -22,7 +22,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYyZnZ6dWZ2ejI3eGJsZ3VqY3Nvc2k0a2s0bmxqZXM3Y2M3MDRsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sE1fbQPozKg3q5I2W2/giphy.gif"  />
 
-###
+### Tech
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
-###
+### Connect with me
 
 <div align="left">
     <a href="https://instagram.com/__hemant19__" target="_blank">
