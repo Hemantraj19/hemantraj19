@@ -23,10 +23,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmYyZnZ6dWZ2ejI3eGJsZ3VqY3Nvc2k0a2s0bmxqZXM3Y2M3MDRsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sE1fbQPozKg3q5I2W2/giphy.gif"  />
-
-###
-
 <h3 align="center">Techs</h3>
 <br><br>
 <div align="center">
