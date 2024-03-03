@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="center">Techs</h3>
+<h3 align="center">Tech Stack</h3>
 <br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
